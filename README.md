@@ -1,3 +1,2 @@
 # Mafengwo
-由于此项目的数据是通过抓包获取的，所以运行此项目需要在cmd中node prod.server.js。
-Because this project is obtained through the capture data,So to run this project, you need node prod.server.js in CMD.
+项目运行方法：下载项目到本地，运行mafengwo项目中的prod.server.js，再打开dist中的index.html即可浏览项目。
